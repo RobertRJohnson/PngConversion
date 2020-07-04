@@ -1,1 +1,1 @@
-Simple script to convert images to PNG for machine learning compatability
+PNGCONVERSION will take a directory and process images to be compatable with tensor flow image preprocessing functions. VGG16 includes the preporcessing, creation of and training of a simple vgg16 image classification model. bing_search_api will take a query and scrape through bing images via microsoft azure api.
